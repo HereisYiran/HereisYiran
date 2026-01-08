@@ -64,13 +64,13 @@
   <text x="132" y="148" class="txt hot" filter="url(#glow)">yiranjiang</text>
 
   <text x="66" y="176" class="txt">node status:</text>
-  <text x="172" y="176" class="txt hot" filter="url(#glow)">active</text>
+  <text x="190" y="176" class="txt hot">active</text>
 
   <text x="66" y="204" class="txt">mode:</text>
   <text x="132" y="204" class="txt muted">observing</text>
 
   <!-- right block -->
-  <text x="520" y="120" class="label">FIELDS</text>
+  <text x="520" y="120" class="label">INFO</text>
   <text x="520" y="148" class="txt">field:</text>
   <text x="596" y="148" class="txt muted">cognitive science / ai</text>
 
